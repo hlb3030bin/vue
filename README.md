@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # goodman
 
 > goodman
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue
+vue
+>>>>>>> 3e3347f4ddfe6b455137a8a41ef12110a37c69da
